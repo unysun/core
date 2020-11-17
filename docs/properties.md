@@ -1,4 +1,4 @@
-#Properties
+# Properties
 In Flogo, the concept of an application-level property bag is available to allow reuse of properties across different actions, triggers and activities.  For example, they can be used in trigger or activity settings. Properties are accessed via the `$property` resolver and made available to the scopes defined in the [mappings](mapping.md) documentation.
 
 ### Configuration
